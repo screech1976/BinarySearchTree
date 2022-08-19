@@ -9,8 +9,7 @@ public class BinarySearchTreeDemo {
     public static void main(String[] args) {
         BinarySearchTree tree = new BinarySearchTree();
 
-        /*  Insert values to make BST
-                                */
+        /*  Insert values to make BST*/
         tree.insert(33);
         tree.insert(80);
         tree.insert(50);
@@ -19,7 +18,7 @@ public class BinarySearchTreeDemo {
         tree.insert(23);
         tree.insert(99);
 
-        // print inorder traversal of the BST
+
         tree.inorder();
 
         System.out.println();

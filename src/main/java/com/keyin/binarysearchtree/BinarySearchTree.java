@@ -2,7 +2,7 @@ package com.keyin.binarysearchtree;
 
 class BinarySearchTree {
 
-    /* Class */
+
 
     class Node {
         int key;
